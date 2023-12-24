@@ -1,0 +1,11 @@
+fastapi==0.95.1
+uvicorn==0.20.0
+vkbottle==4.3.12
+loguru==0.6.0
+aioredis==2.0.1
+matplotlib==3.7.1
+Pillow==9.5.0
+plotly==5.14.0
+kaleido==0.2.1
+pandas==1.5.3
+   
